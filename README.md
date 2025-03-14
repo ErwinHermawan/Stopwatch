@@ -1,4 +1,4 @@
-# floating_stopwatch
+# Flutter Stopwatch
 
 A new Flutter project.
 
